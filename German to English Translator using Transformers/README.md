@@ -28,10 +28,10 @@ Evaluation of the models is performed using the BLEU score, a metric for evaluat
 ## Notebooks Overview
 
 ### German to English Translation
-[AnbuValluvan_Devadasan_Assignment9_Transformer_German_to_English.ipynb](AnbuValluvan_Devadasan_Assignment9_Transformer_German_to_English.ipynb) focuses on translating sentences from German to English. It covers data loading, preprocessing, model building, training, and evaluation steps, concluding with translation examples to demonstrate the model's performance.
+[Transformer_German_to_English.ipynb](Transformer_German_to_English.ipynb) focuses on translating sentences from German to English. It covers data loading, preprocessing, model building, training, and evaluation steps, concluding with translation examples to demonstrate the model's performance.
 
 ### English to German Translation
-[AnbuValluvan_Devadasan_Assignment9_Translation_English_to_German.ipynb](AnbuValluvan_Devadasan_Assignment9_Translation_English_to_German.ipynb) mirrors the structure of the first notebook but targets the reverse translation task: from English to German. It similarly walks through the entire process of building and training a Transformer model for this task, including examples of translated sentences.
+[Translation_English_to_German.ipynb](Translation_English_to_German.ipynb) mirrors the structure of the first notebook but targets the reverse translation task: from English to German. It similarly walks through the entire process of building and training a Transformer model for this task, including examples of translated sentences.
 
 ## Getting Started
 To run these notebooks:
